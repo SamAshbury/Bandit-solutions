@@ -1,3 +1,4 @@
+Entry: ssh -p 2220 banditX@bandit.labs.overthewire.org
 level	| password
 
 bandit0 : bandit0	
@@ -7,3 +8,4 @@ bandit3 : MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 bandit4 : 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
 bandit5 : 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
 bandit6 : HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+bandit7 : morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
